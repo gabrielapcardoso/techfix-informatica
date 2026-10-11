@@ -1,0 +1,6 @@
+gradio
+streamlit
+pandas
+supabase
+python-dotenv
+matplotlib
